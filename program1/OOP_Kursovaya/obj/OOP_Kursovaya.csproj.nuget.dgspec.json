@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\draiza\\Documents\\3sem\\OOP\\K\\OOP_Kursovaya2\\OOP_Kursovaya\\OOP_Kursovaya.csproj": {}
+    "C:\\Users\\draiza\\Documents\\3sem\\SURPO\\1\\program1\\OOP_Kursovaya\\OOP_Kursovaya.csproj": {}
   },
   "projects": {
-    "C:\\Users\\draiza\\Documents\\3sem\\OOP\\K\\OOP_Kursovaya2\\OOP_Kursovaya\\OOP_Kursovaya.csproj": {
+    "C:\\Users\\draiza\\Documents\\3sem\\SURPO\\1\\program1\\OOP_Kursovaya\\OOP_Kursovaya.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\draiza\\Documents\\3sem\\OOP\\K\\OOP_Kursovaya2\\OOP_Kursovaya\\OOP_Kursovaya.csproj",
+        "projectUniqueName": "C:\\Users\\draiza\\Documents\\3sem\\SURPO\\1\\program1\\OOP_Kursovaya\\OOP_Kursovaya.csproj",
         "projectName": "OOP_Kursovaya",
-        "projectPath": "C:\\Users\\draiza\\Documents\\3sem\\OOP\\K\\OOP_Kursovaya2\\OOP_Kursovaya\\OOP_Kursovaya.csproj",
+        "projectPath": "C:\\Users\\draiza\\Documents\\3sem\\SURPO\\1\\program1\\OOP_Kursovaya\\OOP_Kursovaya.csproj",
         "packagesPath": "C:\\Users\\draiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\draiza\\Documents\\3sem\\OOP\\K\\OOP_Kursovaya2\\OOP_Kursovaya\\obj\\",
+        "outputPath": "C:\\Users\\draiza\\Documents\\3sem\\SURPO\\1\\program1\\OOP_Kursovaya\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
